@@ -1,0 +1,66 @@
+@startmindmap
+* Gothic Craft
+
+** Modifications
+*** Client
+**** Map
+**** Animations
+*** Common
+**** Abilities
+**** Magic
+**** Professions
+**** NPCs
+**** Skins
+*** Server
+**** Permisions
+**** World Edit
+
+
+** Documentation
+*** Vision
+*** Contributing
+*** System
+**** Architecture
+***** Components
+***** Flow
+***** Use case
+**** Deployment
+***** Locally
+***** Cloud
+**** Features
+
+
+left side
+
+** Forum
+*** Discussions
+*** Changelog
+*** Profile
+**** Stats
+**** Skills API
+**** Skin change
+**** Friends
+**** Guilds
+*** Market
+**** Areas
+**** Items
+**** Properties
+
+
+** Website
+*** Guide
+*** Sponsorship
+**** We promote
+***** Your company
+***** YT Channel
+**** Donate
+*** News
+*** Interactive map
+*** Gallery
+*** Plan
+
+
+** Launcher
+*** News
+*** Updates
+@endmindmap
