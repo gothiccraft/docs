@@ -12,12 +12,22 @@ However, we have **Minecraft**! This is not just a really awesome game, but also
  We are totally **non-profit** organization, so if you want to help us maintain our **production** infrastructure, please see :heart: [**Sponsorship**]() section. 
 ## Table of contents.
 * [Overview](#overview)
-* [System map](#map)
 * [:heart: Sponsorship](#sponsor)
 ## <a name="overview">Overview</a>
->TODO
-## <a name="map">System map</a>
-You can click on element for more details.
 ![system_map](https://plantuml.com/plantuml/proxy?src=https://raw.githubusercontent.com/gothiccraft/docs/master/diagrams/main.puml) 
+### Modifications [[Team](#link)]
+> TODO
+
+**Related repositories**
+* Skills
+* Professions
+* Mobs
+* Animations
+* Magic
+### Website
+> TODO
+
+**Related repositories**
+* Website
 ## <a name="sponsor">:heart: Sponsorship</a>
 > TODO
