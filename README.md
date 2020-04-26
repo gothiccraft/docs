@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gothiccraft/docs/master/assets/banner.png">
+</p>
+
 # Gothic Craft official project.
 ## What we do?
 We are the [Gothic](https://en.wikipedia.org/wiki/Gothic_(video_game)) fans group, which trying to bridge that game to **Minecraft**. 
